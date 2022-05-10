@@ -1,1 +1,1 @@
-# macos-typing
+# macOS Typing
